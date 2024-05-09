@@ -10,9 +10,11 @@
 
 
     //SENDGRID API KEY
-    define('SENDGRID_API_KEY',"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");
-    define('SENDGRID_EMAIL',"kafkakaine29@gmail.com");
-    define('SENDGRID_NAME',"Kafka Hotel");
+    define('SENDGRID_API_KEY',"");
+    // admin email
+    define('SENDGRID_EMAIL',"");
+    // admin name
+    define('SENDGRID_NAME',"");
 
 
 
