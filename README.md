@@ -5,11 +5,11 @@ A project to develop a hotel booking website using PHP. The purpose of this proj
 This project involves an interaction with the database to update and retrieve data for the website to be functioning. 
 
 ## TOOLS 
-LANGUAGE: PHP, CSS, JavaScript, AJAX
-FRAMEWORK: BOOTSTRAP 5
-DATABASE: MySQL
-SERVER: XAMPP
-OTHERS: SENDGRID (Emailing purpose), Mpdf(Generate Pdf File)
+- LANGUAGE: PHP, CSS, JavaScript, AJAX
+- FRAMEWORK: BOOTSTRAP 5
+- DATABASE: MySQL
+- SERVER: XAMPP
+- OTHERS: SENDGRID (Emailing purpose), Mpdf(Generate Pdf File)
 
 ## DATABASE
 phpMyAdmin is a free and open source administration tool for MySQL. Since we will use MySQL for this project, we will
