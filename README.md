@@ -8,7 +8,7 @@ This project involves an interaction with the database to update and retrieve da
 - LANGUAGE: PHP, CSS, JavaScript, AJAX
 - FRAMEWORK: BOOTSTRAP 5
 - DATABASE: MySQL
-- SERVER: XAMPP
+- SERVER: XAMPP Apache HTTP SERVER
 - OTHERS: SENDGRID (Emailing purpose), Mpdf(Generate Pdf File)
 
 ## DATABASE
