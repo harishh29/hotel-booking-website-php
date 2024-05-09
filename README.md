@@ -34,6 +34,15 @@ An admin can but not limited to:
 - Cancel/Refund Booking
 - View Dashboard
 - Shutdown Website
-  
-### Admin Dashboard
+
+## Screenshot
+### Admin Dashboard Page
 ![image](https://github.com/harishh29/hotel-booking-website-php/assets/76155776/993acb8b-6fde-4276-b47b-0f01e6765556)
+
+### Create or Edit Room Page
+![image](https://github.com/harishh29/hotel-booking-website-php/assets/76155776/2dc4439b-3279-46e4-861a-9f363edaa1e3)
+
+### Room Page
+![image](https://github.com/harishh29/hotel-booking-website-php/assets/76155776/298b5b0c-9dc8-45e2-a753-2fb72cc705ae)
+
+
